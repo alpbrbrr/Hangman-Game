@@ -1,6 +1,6 @@
 Creators
-Alperen BERBER(21988457 //S. Esen YÜKSEL)
-Emre Can ŞAHİN(21828877 //S. Esen YÜKSEL)
+Alperen BERBER
+Emre Can ŞAHİN
 
 How to start
 To start the game, open Hangman 2.exe or run from CPP file. You should have the 
