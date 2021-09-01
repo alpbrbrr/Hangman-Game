@@ -4,8 +4,8 @@
 #include <ctype.h>
 
 void gameFunction(char *wordinFunction, char *userWordinFunction, int letterNumber);   //Function for checking the letter, incrementing counters etc.
-void printUserWord(char * userWordinPrint,int letterNumber);						   //Function for printing the hanmgan figure 
-void printFigure(int failinFigure);													   //Function for printing the array of user
+void printUserWord(char * userWordinPrint,int letterNumber);			       //Function for printing the hanmgan figure 
+void printFigure(int failinFigure);						       //Function for printing the array of user
 
 int main(void)
 {
