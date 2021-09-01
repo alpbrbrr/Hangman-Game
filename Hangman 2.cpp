@@ -1,4 +1,3 @@
-//HANGMAN GAME BY EMRE CAN ÞAHÝN AND ALPEREN BERBER
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
