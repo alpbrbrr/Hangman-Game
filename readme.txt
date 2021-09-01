@@ -3,7 +3,7 @@ Alperen BERBER
 Emre Can ŞAHİN
 
 How to start
-To start the game, open Hangman 2.exe or run from CPP file. You should have the 
+To start the game, compile and run the CPP file. You should have the 
 hangmanwords.txt file in order to start the program. The later prompts will be given in the game.
 
 Important Note
