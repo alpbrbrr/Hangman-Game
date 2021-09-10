@@ -8,4 +8,4 @@ hangmanwords.txt file in order to start the program. The later prompts will be g
 
 Important Note
 If you enter wrong letter once and try it again and again, the program will always count it as
-fail so you should remind what you have entered
+fail so you should remind what you had entered
